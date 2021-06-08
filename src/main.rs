@@ -1,4 +1,4 @@
-mod sea0;
+mod protocol;
 
 fn main() {
     println!("Hello, world!");
